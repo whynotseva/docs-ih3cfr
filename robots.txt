@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nzr9g4.napatrailerrental.com/sitemap.xml
